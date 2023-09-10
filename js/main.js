@@ -107,7 +107,7 @@
 
     $("#lnkDownloadCV").click(function(e) {
         e.preventDefault();
-        window.location.href = '/Rashmi Bhole Resume(2).pdf';
+        window.location.href = 'Rashmi_Bhole_Resume (2).pdf';
     })
     
 })(jQuery);
